@@ -1,0 +1,12 @@
+[theme]
+# The console's HTML tables and headings use a light palette, so the theme is
+# pinned instead of following the desktop's dark mode.
+base = "light"
+primaryColor = "#0f766e"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f9"
+textColor = "#0d2136"
+font = "sans serif"
+
+[server]
+headless = true

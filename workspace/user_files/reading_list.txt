@@ -1,0 +1,5 @@
+CS-402 reading list
+- Anderson, Security Engineering (3rd ed.)
+- OWASP Top 10 (2025)
+- Stuttard & Pinto, The Web Application Hacker's Handbook
+- NIST SP 800-63B, Digital Identity Guidelines
