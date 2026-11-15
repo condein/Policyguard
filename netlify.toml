@@ -1,0 +1,6 @@
+# PolicyGuard is a local Python app (FastAPI + Streamlit + Ollama).
+# Netlify only publishes the static project page in /site.
+[build]
+  base = "."
+  command = "echo 'Static site, no build step'"
+  publish = "site"
